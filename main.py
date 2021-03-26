@@ -1,3 +1,4 @@
+# Install these packages before running the program
 import time
 from datetime import datetime
 from pynput.keyboard import Controller, Key
